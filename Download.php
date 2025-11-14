@@ -1,4 +1,4 @@
 {
   "version": "0.01",
-  "url": "https://raw.githubusercontent.com/hkgjdh/Safe-loader/main/libHKCHEATS.so"
+  "url": "https://raw.githubusercontent.com/hkgjdh/bgmicheat/main/libHKCHEATS.so"
 }
